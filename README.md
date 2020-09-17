@@ -19,4 +19,6 @@
 <a href="https://linkedin.com/in/iharshitsharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iharshitsharma" height="30" width="30" /></a>
 <a href="https://fb.com/harshitshharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="harshitshharma" height="30" width="30" /></a>
 <a href="https://instagram.com/harshitshharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="harshitshharma" height="30" width="30" /></a>
+  <a href="https://codepen.io/icoderharshit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ibhavikamalhotra" height="30" width="30" /></a>
+  <a href="https://codesandbox.io/u/icoderharshit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="ibhavikamalhotra" height="30" width="30" /></a>
 </p>
