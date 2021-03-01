@@ -17,7 +17,8 @@
 <a href="https://fb.com/harshitshharma" target="blank"><img align="center" src="https://icongr.am/devicon/facebook-original.svg?size=128&color=currentColor" alt="harshitshharma" height="30" width="30" /></a>
 </p>
 - ⚡ Fun fact **Me: Hey Bhagwaan ! Bhagwaan: Hey**
-<br/>
+
+- <br/>
 
 <p align="center">
  <b>Tech Skills</b><br/><img src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor" alt="bootstrap" width="40" height="40"/> <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="c" width="40" height="40"/> <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3" width="40" height="40"/> 
