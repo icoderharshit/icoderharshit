@@ -12,7 +12,7 @@
 - 💬 Ask me about **C, Java, Advanced C, HTML, CSS, Bootstrap**
 
 - 📫 How to reach me **iharshitsharma@outlook.com**
- <p style="margin-left:50px;">
+ <p style="margin-left:150px;">
  <a href="https://linkedin.com/in/iharshitsharma" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="iharshitsharma" height="30" width="30" /></a>
 <a href="https://fb.com/harshitshharma" target="blank"><img align="center" src="https://icongr.am/devicon/facebook-original.svg?size=128&color=currentColor" alt="harshitshharma" height="30" width="30" /></a>
 </p>
