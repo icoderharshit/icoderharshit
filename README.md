@@ -27,8 +27,8 @@
 
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=icoderharshit&show_icons=true&locale=en&layout=compact" alt="icoderharshit" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=icoderharshit&" alt="icoderharshit" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=icoderharshit&show_icons=true&locale=en&layout=compact" alt="icoderharshit" style="max-width:380px;width:40%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=icoderharshit&" alt="icoderharshit" style="max-width:300px;width:50%"/></p>
 
 <!-- <p align="center">
  <b>Tech Skills</b><br/><img src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor" alt="bootstrap" width="40" height="40"/> <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" alt="c" width="40" height="40"/> <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3" width="40" height="40"/> 
