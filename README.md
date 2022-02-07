@@ -27,7 +27,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=icoderharshit&show_icons=true&locale=en&layout=compact" alt="icoderharshit" />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=icoderharshit&show_icons=true&locale=en&layout=compact" alt="icoderharshit" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=icoderharshit&" alt="icoderharshit" /></p>
 
 <!-- <p align="center">
