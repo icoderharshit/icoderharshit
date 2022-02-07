@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **my front-end skills.**
 
-- 🌱 I’m currently learning **JS, Core Java**
+<!-- - 🌱 I’m currently learning **JaS, Core Java** -->
 
-- 👯 I’m looking to collaborate on **any type of website projects.**
+- 👯 I’m looking to collaborate on **any type of web projects.**
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms.**
 
-- 💬 Ask me about **C, Java, Advanced C, HTML, CSS, Bootstrap**
+- 💬 Ask me about **C, Java, HTML, CSS, Bootstrap, SQL, Firebase, Node.js**
 
 - 📫 How to reach me **iharshitsharma@outlook.com**
 <p align="center">
