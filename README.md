@@ -5,11 +5,11 @@
 
 <!-- - 🌱 I’m currently learning **JaS, Core Java** -->
 
-- 👯 I’m looking to collaborate on **any type of web projects.**
+<!-- - 👯 I’m looking to collaborate on **any type of web projects.** -->
 
 <!-- - 🤝 I’m looking for help with **Data Structures and Algorithms.** -->
 
-- 💬 Ask me about **C, Java, HTML, CSS, Bootstrap, Node.js, SQL, Firebase**.
+- 💬 Ask me about **C, Java, HTML, CSS, Bootstrap, Node.js, MySQL, Firebase**.
 
 - 📫 How to reach me **iharshitsharma@outlook.com** .
 
