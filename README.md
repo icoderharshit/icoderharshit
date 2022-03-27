@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Harshit Sharma</h2>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-- 🔭 I’m currently working on a **React.js web project**.
+- 🔭 I’m currently working on a **Web Project**.
 
 <!-- - 🌱 I’m currently learning **JaS, Core Java** -->
 
