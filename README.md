@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Harshit Sharma</h2>
+<h2 align="center">Hi there 👋</h2>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 - 🔭 I’m currently working on a **Web Project**.
