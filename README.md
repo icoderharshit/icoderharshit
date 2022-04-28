@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **C, Java, HTML, CSS, Bootstrap, Node.js, MySQL, Firebase**.
 
-- 📫 How to reach me **iharshitsharma@outlook.com** .
-
 - ⚡ Fun fact  <b> Me: Hey Bhagwaan ! Bhagwaan: Hey </b>
 
 - Connect with me on &nbsp;<a href="https://linkedin.com/in/iharshitsharma" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="iharshitsharma" height="30" width="30" /></a>
