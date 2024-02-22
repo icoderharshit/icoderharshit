@@ -9,7 +9,7 @@
 
 <!-- - 🤝 I’m looking for help with **Data Structures and Algorithms.** -->
 
-- 💬 Ask me about **C, Java, HTML, CSS, Bootstrap, Node.js, MySQL, Firebase**.
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind.css, Javascript, React.js, Typescript, GraphQL,  Firebase**.
 
 - ⚡ Fun fact  <b> Me: Hey Bhagwaan ! Bhagwaan: Hey </b>
 
