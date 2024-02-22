@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind.css, Javascript, React.js, Typescript, GraphQL,  Firebase**.
 
-- ⚡ Fun fact  <b> Me: Hey Bhagwaan ! Bhagwaan: Hey </b>
+- ⚡ Fun fact  <b> I miss my ex a lil too much :p</b>
 
 - Connect with me on &nbsp;<a href="https://linkedin.com/in/iharshitsharma" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="iharshitsharma" height="30" width="30" /></a>
 <!-- <a href="https://fb.com/harshitshharma" target="blank"><img align="center" src="https://icongr.am/devicon/facebook-original.svg?size=128&color=currentColor" alt="harshitshharma" height="30" width="30" /></a> -->
