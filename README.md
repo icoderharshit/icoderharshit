@@ -1,8 +1,11 @@
+<html>
+ <head>
 <style>
  [data-a11y-link-underlines=true] .markdown-body {
   text-decoration: none !important;
  }
 </style>
+ </head>
 <h2 align="center">Hi there 👋</h2>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
@@ -40,3 +43,4 @@
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" alt="mysql" width="40" height="40"/> <img src="https://icongr.am/devicon/photoshop-plain.svg?size=128&color=currentColor" alt="photoshop" width="40" height="40"/> <img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" alt="sass" width="40" height="40"/><img src="https://i.dlpng.com/static/png/7044160_preview.png" alt="jQuery" width="40" height="40"/></p><p align="center">
 
 </p> -->
+</html>
