@@ -1,3 +1,8 @@
+<style>
+ [data-a11y-link-underlines=true] .markdown-body {
+  text-decoration: none !important;
+ }
+</style>
 <h2 align="center">Hi there 👋</h2>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
