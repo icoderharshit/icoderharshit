@@ -1,7 +1,7 @@
 <html>
  <head>
 <style>
- [data-a11y-link-underlines=true] .markdown-body {
+ .markdown-body {
   text-decoration: none !important;
  }
 </style>
