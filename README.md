@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact : I am a **passionate sleeper** 💤
 
-- Connect with me on &nbsp;<a href="https://linkedin.com/in/iharshitsharma" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="iharshitsharma" height="30" width="30" /></a><a href="https://instagram.com/harshitshharma" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=32292&format=png&color=000000" alt="harshitshharma" height="30" width="30" /></a>
+- Connect with me on &nbsp;<a href="https://linkedin.com/in/iharshitsharma" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="iharshitsharma" height="30" width="30" /></a>  <a href="https://instagram.com/harshitshharma" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=32292&format=png&color=000000" alt="harshitshharma" height="30" width="30" /></a>
 
 <!-- <a href="https://fb.com/harshitshharma" target="blank"><img align="center" src="https://icongr.am/devicon/facebook-original.svg?size=128&color=currentColor" alt="harshitshharma" height="30" width="30" /></a> -->
 
