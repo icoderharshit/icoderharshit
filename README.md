@@ -4,7 +4,7 @@
 <h2 align="center">Hi there 👋</h2>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-- 🔭 I’m currently working on **Lexical Framework**.
+- 🔭 I’m currently working on **Core Backend**.
 
 <!-- - 🌱 I’m currently learning **JaS, Core Java** -->
 
@@ -12,9 +12,9 @@
 
 <!-- - 🤝 I’m looking for help with **Data Structures and Algorithms.** -->
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind.css, Javascript, React.js, Typescript, GraphQL,  Firebase**.
+- 💬 Ask me about **PostgreSQL, MongoDB,  Typescript, GraphQL, HTML, CSS, Bootstrap, Tailwind.css, Javascript, React.js ,  Firebase**.
 
-- ⚡ Fun fact  <b> I miss my ex a lil too much :p</b>
+- ⚡ Fun fact : I am a passionate sleeper 💤
 
 - Connect with me on &nbsp;<a href="https://linkedin.com/in/iharshitsharma" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="iharshitsharma" height="30" width="30" /></a>
 <!-- <a href="https://fb.com/harshitshharma" target="blank"><img align="center" src="https://icongr.am/devicon/facebook-original.svg?size=128&color=currentColor" alt="harshitshharma" height="30" width="30" /></a> -->
