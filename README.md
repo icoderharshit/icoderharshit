@@ -1,10 +1,5 @@
 <html>
  <head>
-<style>
- .markdown-body {
-  text-decoration: none !important;
- }
-</style>
  </head>
 <h2 align="center">Hi there 👋</h2>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
