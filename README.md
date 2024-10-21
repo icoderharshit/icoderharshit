@@ -4,7 +4,7 @@
 <h2 align="center">Hi there 👋</h2>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-- 🔭 I’m currently working on **Core Backend**.
+- 🔭 I’m currently working on **Management Skills**.
 
 <!-- - 🌱 I’m currently learning **JaS, Core Java** -->
 
